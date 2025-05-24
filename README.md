@@ -1,7 +1,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>I´m batman</title>
+    <title>I´m batman ;)</title>
   </head>
   <body>
     <a
